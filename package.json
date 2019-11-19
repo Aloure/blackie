@@ -18,5 +18,8 @@
                 "path": "./themes/Blackie Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/Aloure/blackie"
     }
 }
