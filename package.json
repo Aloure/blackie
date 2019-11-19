@@ -1,0 +1,22 @@
+{
+    "name": "blackie-theme",
+    "displayName": "Blackie",
+    "description": "Blackie Theme",
+    "version": "0.0.1",
+    "publisher": "Aloure",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blackie Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blackie Theme-color-theme.json"
+            }
+        ]
+    }
+}
